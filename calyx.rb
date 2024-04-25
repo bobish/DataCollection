@@ -1,4 +1,3 @@
-
 require 'nokogiri'
 require 'csv'
 require 'open-uri'
